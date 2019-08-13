@@ -18,10 +18,10 @@ r++;
 }
 if(r==2)
 {
-System.out.println("prime");
+System.out.println("yes");
 }
 else
 {
-System.out.println(" not prime");
+System.out.println(" no");
 }
 }}
