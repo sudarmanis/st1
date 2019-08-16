@@ -13,7 +13,7 @@ a=sc.nextInt();
 for(i=n+1;i<a;i++)
 {
 
-for(j=2;j<=a/10;j++)
+for(j=2;j<=a;j++)
  {
 	 if(i%j==0)
 	 {
@@ -21,7 +21,7 @@ for(j=2;j<=a/10;j++)
  }}
  if(s==1)
  {
- System.out.println("palindrome" +""+i);
+ System.out.println(+i"");
  }
   s=0;
 
