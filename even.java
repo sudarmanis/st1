@@ -9,7 +9,7 @@ System.out.println("enter the initial no");
 a=sc.nextInt();
 System.out.println("enter the end no");
 b=sc.nextInt();
-for(n=a;n<=b;n++)
+for(n=a+1;n<b;n++)
 {
 if(n%2==1)
 {
