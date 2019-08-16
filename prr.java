@@ -21,7 +21,7 @@ for(j=2;j<=a;j++)
  }}
  if(s==1)
  {
- System.out.println(+i"");
+ System.out.println(""+i);
  }
   s=0;
 
