@@ -5,7 +5,6 @@ public static void main(String argS[])
 {
 int n ,temp,re,s=0;
 Scanner sc=new Scanner(System.in);
-System.out.println("enter the initial no");
 n=sc.nextInt();
 {
 temp=n;
@@ -17,11 +16,11 @@ temp=n;
  }
  if(s==n)
  {
- System.out.println("palindrome"+s);
+ System.out.println("yes");
  }
  else
  {
-	 System.out.println(" not palindrome"+n);
+	 System.out.println("no");
 }
 }}
 }
