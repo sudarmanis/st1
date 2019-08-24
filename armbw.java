@@ -5,9 +5,7 @@ public static void main(String argS[])
 {
 int n,a ,temp,s=0,i,re;
 Scanner sc=new Scanner(System.in);
-System.out.println("enter the initial no");
 n=sc.nextInt();
-System.out.println("enter the end no");
 a=sc.nextInt();
 {
 for(i=n+1;i<a;i++)
