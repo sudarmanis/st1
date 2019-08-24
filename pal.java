@@ -16,6 +16,7 @@ temp=n;
  }
  if(s==n)
  {
+	 
  System.out.println("yes");
  }
  else
